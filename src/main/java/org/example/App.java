@@ -28,6 +28,6 @@ public class App {
             System.out.println(s);
 
         }
-        System.out.println(resultSum);
+        System.out.println("Сумма " + resultSum);
     }
 }
